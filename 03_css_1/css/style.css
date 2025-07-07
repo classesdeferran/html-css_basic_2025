@@ -1,0 +1,27 @@
+/*
+selector {
+nombre_propiedad_1: valor_propiedad_1;
+nombre_propiedad_2: valor_propiedad_2;
+nombre_propiedad_3: valor_propiedad_3;
+}
+*/
+
+p {
+    color: red;
+}
+
+.text_azul {
+    color: blue;
+}
+
+#p4 {
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: coral;
+    text-align: center;
+    
+}
+
+/* p {
+    color: blue;
+} */
